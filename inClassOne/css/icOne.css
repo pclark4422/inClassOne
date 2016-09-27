@@ -1,0 +1,39 @@
+body{
+  font-size: 20px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  color: black;
+}
+form{\
+  font-family: "Courier New", Courier, monospace;
+  font-size: 15px;
+  color: red;
+  text-align: center;
+}
+#footNote{
+  font-size: .5rem;
+  text-align: right;
+}
+.link{
+  font-size: 3rem;
+}
+h1{
+  text-align: center;
+}
+nav{
+  font-family: "Times New Roman", Times, sans-serif;
+  background-color: yellow;
+  font-size: 25px;
+  color: green;
+	text-align: center;
+}
+#homeIcon{
+  height: 40px;
+  width: 40px;
+  border: solid;
+  border-width: 2px;
+  border-color:aqua;
+	display: inline;
+}
+ul>li{
+	display:inline;
+}
